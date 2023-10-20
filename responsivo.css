@@ -1,46 +1,40 @@
-@media only screen and (max-width: 1005px){
+@media only screen and (max-width: 1005px) {
+  .navbar {
+    position: relative;
+  }
+  .menu {
+    display: none;
+  }
 
+  .logo {
+    margin: 0%;
+    text-align: center;
+  }
 
-    .navbar{
-        position: relative;
-    }
-    .menu{
-        display: none;
-    }
+  .header {
+    padding-top: 50px;
+  }
 
-    .logo{
-        margin: 0%;
-        text-align: center;
-    }
+  .headline {
+    flex: 100%;
+    margin: 5%;
+    text-align: center;
+  }
 
-    .header{
-        padding-top: 50px;
-    }
+  headline p {
+    text-align: center;
+  }
 
-    .headline{
+  .imgheadline {
+    flex: 100%;
+    margin: 5%;
+    text-align: center;
+  }
+  .whats {
+    display: none;
+  }
 
-        flex: 100%;
-        margin: 5%;
-        text-align: center;
-    }
-
-    headline p {
-
-        text-align: center;
-    }
-
-
-    .imgheadline{
-
-        flex: 100%;
-        margin: 5%;
-        text-align: center;
-    }
-    .whats{
-        display: none;
-    }
-
-    .card{
-        width: 100%;
-    }
+  .card {
+    width: 100%;
+  }
 }
