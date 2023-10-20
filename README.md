@@ -1,2 +1,3 @@
-# Grécia
-Esse pequeno projeto foi feito utilzando CSS e HTML, porém com alguns conceitos de Flexbox
+# Wolfy
+Site de uma empresa fictícia da empresa Wolfy, projeto integrador do SENAC VILA PRUDENTE.
+Curso Técnico em Manutenção e Suporte em Informática
